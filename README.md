@@ -1,4 +1,4 @@
-# 🤵🏻 Abderrahmane Habli - Portfolio
+# 🤵🏻 Abderrahman Habli - Portfolio
 
 Welcome to my personal web development portfolio! 🚀  
 
