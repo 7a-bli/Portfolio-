@@ -22,7 +22,7 @@ I created this portfolio to:
 ---
  
 ## 📩 Contact Me  
-📧 Email: [habli77habli8788@gmail.com] (mailto:habli77habli8788@gmail.com) 
+📧 Email: [habli77habli8788@gmail.com]
 🐱 GitHub: [@7a-bli](https://github.com/7a-bli)  
 
 ---
