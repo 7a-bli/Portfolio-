@@ -9,7 +9,7 @@ I created this portfolio to:
 ✅ Improve my **coding & design skills**  
 
 ## 📌 Live Preview  
-🔗 [View My Portfolio](https://7a-bli.github.io/portfolio/)  
+🔗 [View My Portfolio](https://7a-bli.github.io/portfolio-/)  
 
 ---
 
